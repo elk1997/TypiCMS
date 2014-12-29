@@ -11,7 +11,7 @@ abstract class AdminSimpleController extends BaseAdminController
 
     /**
      * List models
-     * 
+     *
      * @return void
      */
     public function index()
