@@ -34,7 +34,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://typicms.samsfactory.com',
+	'url' => 'http://hogehoge.com',
 
 	/*
 	|--------------------------------------------------------------------------
